@@ -1,0 +1,14 @@
+# Node dependencies
+node_modules/
+dist/
+.env
+
+# Angular build outputs and cache
+.angular/
+.sourcemaps/
+tmp/
+
+# OS/Editor system files
+.DS_Store
+.vscode/
+Thumbs.db
